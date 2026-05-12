@@ -1,0 +1,251 @@
+study_id,subject_id,visit_name,administration_date,administration_time,study_drug_name,dose_administered,dose_unit,route_of_administration,formulation,lot_number,compliance_percent,missed_doses,dose_modification,modification_reason,administered_by,storage_condition_met
+STUDY001,SUB0001,Day 1,2024-02-15,12:06,Investigational Product,20,mg,Oral,Tablet,LOT9717,86,2,No,,Subject,Yes
+STUDY001,SUB0001,Week 2,2024-02-29,10:25,Investigational Product,20,mg,Oral,Tablet,LOT6515,94,1,No,,Study Staff,Yes
+STUDY001,SUB0001,Week 4,2024-03-14,09:44,Investigational Product,50,mg,Oral,Tablet,LOT9399,89,1,No,,Subject,Yes
+STUDY001,SUB0001,Week 8,2024-03-28,08:54,Investigational Product,20,mg,Oral,Tablet,LOT8418,94,1,No,,Study Staff,Yes
+STUDY001,SUB0001,Week 12,2024-04-11,08:35,Investigational Product,7,mg,Oral,Tablet,LOT7338,92,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0002,Day 1,2024-02-15,10:54,Investigational Product,50,mg,Oral,Tablet,LOT5701,97,0,No,,Subject,Yes
+STUDY001,SUB0002,Week 2,2024-02-29,11:40,Investigational Product,50,mg,Oral,Tablet,LOT8483,87,2,No,,Study Staff,Yes
+STUDY001,SUB0002,Week 4,2024-03-14,09:26,Investigational Product,100,mg,Oral,Tablet,LOT4685,87,2,No,,Subject,Yes
+STUDY001,SUB0002,Week 8,2024-03-28,10:45,Investigational Product,10,mg,Oral,Tablet,LOT6264,94,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0002,Week 12,2024-04-11,10:42,Investigational Product,50,mg,Oral,Tablet,LOT6401,93,2,No,,Subject,Yes
+STUDY001,SUB0003,Day 1,2024-02-15,12:43,Investigational Product,20,mg,Oral,Tablet,LOT4298,86,0,No,,Study Staff,Yes
+STUDY001,SUB0003,Week 2,2024-02-29,08:52,Investigational Product,100,mg,Oral,Tablet,LOT2910,100,2,No,,Study Staff,Yes
+STUDY001,SUB0003,Week 4,2024-03-14,08:46,Investigational Product,50,mg,Oral,Tablet,LOT8081,90,2,No,,Study Staff,Yes
+STUDY001,SUB0003,Week 8,2024-03-28,09:26,Investigational Product,75,mg,Oral,Tablet,LOT3021,98,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0003,Week 12,2024-04-11,09:57,Investigational Product,15,mg,Oral,Tablet,LOT6159,95,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0004,Day 1,2024-02-15,09:21,Investigational Product,100,mg,Oral,Tablet,LOT4698,88,1,No,,Subject,Yes
+STUDY001,SUB0004,Week 2,2024-02-29,09:19,Investigational Product,50,mg,Oral,Tablet,LOT4906,100,2,No,,Study Staff,Yes
+STUDY001,SUB0004,Week 4,2024-03-14,10:42,Investigational Product,50,mg,Oral,Tablet,LOT4964,99,1,No,,Subject,Yes
+STUDY001,SUB0004,Week 8,2024-03-28,09:56,Investigational Product,7,mg,Oral,Tablet,LOT6765,92,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0004,Week 12,2024-04-11,10:59,Investigational Product,50,mg,Oral,Tablet,LOT4432,96,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0005,Day 1,2024-02-15,09:28,Investigational Product,100,mg,Oral,Tablet,LOT5959,99,2,No,,Subject,Yes
+STUDY001,SUB0005,Week 2,2024-02-29,11:18,Investigational Product,10,mg,Oral,Tablet,LOT3921,98,0,No,,Study Staff,Yes
+STUDY001,SUB0005,Week 4,2024-03-14,11:41,Investigational Product,10,mg,Oral,Tablet,LOT9700,99,1,No,,Subject,Yes
+STUDY001,SUB0005,Week 8,2024-03-28,10:32,Investigational Product,100,mg,Oral,Tablet,LOT9095,91,1,No,,Study Staff,Yes
+STUDY001,SUB0005,Week 12,2024-04-11,12:40,Investigational Product,10,mg,Oral,Tablet,LOT6857,90,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0006,Day 1,2024-02-15,12:45,Investigational Product,10,mg,Oral,Tablet,LOT6888,94,0,No,,Subject,Yes
+STUDY001,SUB0006,Week 2,2024-02-29,10:02,Investigational Product,100,mg,Oral,Tablet,LOT7077,98,0,No,,Subject,Yes
+STUDY001,SUB0006,Week 4,2024-03-14,11:03,Investigational Product,10,mg,Oral,Tablet,LOT3015,99,1,No,,Study Staff,Yes
+STUDY001,SUB0006,Week 8,2024-03-28,11:07,Investigational Product,50,mg,Oral,Tablet,LOT2386,89,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0006,Week 12,2024-04-11,12:28,Investigational Product,7,mg,Oral,Tablet,LOT7109,85,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0007,Day 1,2024-02-15,11:44,Investigational Product,100,mg,Oral,Tablet,LOT9852,99,0,No,,Subject,Yes
+STUDY001,SUB0007,Week 2,2024-02-29,10:10,Investigational Product,20,mg,Oral,Tablet,LOT4783,99,2,No,,Subject,Yes
+STUDY001,SUB0007,Week 4,2024-03-14,09:37,Investigational Product,20,mg,Oral,Tablet,LOT6264,97,1,No,,Study Staff,Yes
+STUDY001,SUB0007,Week 8,2024-03-28,12:44,Investigational Product,25,mg,Oral,Tablet,LOT3417,86,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0007,Week 12,2024-04-11,11:54,Investigational Product,10,mg,Oral,Tablet,LOT6382,98,2,No,,Subject,Yes
+STUDY001,SUB0008,Day 1,2024-02-15,08:42,Investigational Product,10,mg,Oral,Tablet,LOT3148,96,2,No,,Subject,Yes
+STUDY001,SUB0008,Week 2,2024-02-29,12:01,Investigational Product,20,mg,Oral,Tablet,LOT1705,93,1,No,,Study Staff,Yes
+STUDY001,SUB0008,Week 4,2024-03-14,10:31,Investigational Product,50,mg,Oral,Tablet,LOT5932,93,1,No,,Study Staff,Yes
+STUDY001,SUB0008,Week 8,2024-03-28,11:52,Investigational Product,37,mg,Oral,Tablet,LOT8202,85,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0008,Week 12,2024-04-11,09:39,Investigational Product,25,mg,Oral,Tablet,LOT1595,94,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0009,Day 1,2024-02-15,10:45,Investigational Product,10,mg,Oral,Tablet,LOT4974,99,2,No,,Study Staff,Yes
+STUDY001,SUB0009,Week 2,2024-02-29,09:08,Investigational Product,50,mg,Oral,Tablet,LOT7473,89,1,No,,Subject,Yes
+STUDY001,SUB0009,Week 4,2024-03-14,09:23,Investigational Product,50,mg,Oral,Tablet,LOT4775,100,1,No,,Study Staff,Yes
+STUDY001,SUB0009,Week 8,2024-03-28,12:20,Investigational Product,37,mg,Oral,Tablet,LOT5831,89,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0009,Week 12,2024-04-11,10:36,Investigational Product,50,mg,Oral,Tablet,LOT8341,92,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0010,Day 1,2024-02-15,12:59,Investigational Product,10,mg,Oral,Tablet,LOT5697,98,2,No,,Subject,Yes
+STUDY001,SUB0010,Week 2,2024-02-29,10:46,Investigational Product,10,mg,Oral,Tablet,LOT1153,96,2,No,,Subject,Yes
+STUDY001,SUB0010,Week 4,2024-03-14,12:54,Investigational Product,50,mg,Oral,Tablet,LOT8953,92,1,No,,Study Staff,Yes
+STUDY001,SUB0010,Week 8,2024-03-28,08:22,Investigational Product,15,mg,Oral,Tablet,LOT6800,95,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0010,Week 12,2024-04-11,10:28,Investigational Product,75,mg,Oral,Tablet,LOT6586,96,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0011,Day 1,2024-02-15,11:53,Investigational Product,20,mg,Oral,Tablet,LOT4891,88,1,No,,Subject,Yes
+STUDY001,SUB0011,Week 2,2024-02-29,09:57,Investigational Product,10,mg,Oral,Tablet,LOT9325,94,1,No,,Study Staff,Yes
+STUDY001,SUB0011,Week 4,2024-03-14,10:24,Investigational Product,20,mg,Oral,Tablet,LOT4048,89,2,No,,Subject,Yes
+STUDY001,SUB0011,Week 8,2024-03-28,11:31,Investigational Product,20,mg,Oral,Tablet,LOT7179,93,0,No,,Subject,Yes
+STUDY001,SUB0011,Week 12,2024-04-11,11:59,Investigational Product,10,mg,Oral,Tablet,LOT3711,85,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0012,Day 1,2024-02-15,12:21,Investigational Product,10,mg,Oral,Tablet,LOT8594,86,1,No,,Subject,Yes
+STUDY001,SUB0012,Week 2,2024-02-29,10:04,Investigational Product,100,mg,Oral,Tablet,LOT1953,93,0,No,,Study Staff,Yes
+STUDY001,SUB0012,Week 4,2024-03-14,12:57,Investigational Product,50,mg,Oral,Tablet,LOT9205,94,1,No,,Subject,Yes
+STUDY001,SUB0012,Week 8,2024-03-28,12:33,Investigational Product,7,mg,Oral,Tablet,LOT3341,92,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0012,Week 12,2024-04-11,11:41,Investigational Product,37,mg,Oral,Tablet,LOT8689,99,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0013,Day 1,2024-02-15,09:48,Investigational Product,10,mg,Oral,Tablet,LOT6743,95,0,No,,Study Staff,Yes
+STUDY001,SUB0013,Week 2,2024-02-29,10:43,Investigational Product,100,mg,Oral,Tablet,LOT5189,87,2,No,,Subject,Yes
+STUDY001,SUB0013,Week 4,2024-03-14,10:28,Investigational Product,100,mg,Oral,Tablet,LOT3516,88,1,No,,Study Staff,Yes
+STUDY001,SUB0013,Week 8,2024-03-28,11:09,Investigational Product,100,mg,Oral,Tablet,LOT4703,98,1,No,,Subject,Yes
+STUDY001,SUB0013,Week 12,2024-04-11,11:20,Investigational Product,10,mg,Oral,Tablet,LOT4527,91,1,No,,Study Staff,Yes
+STUDY001,SUB0014,Day 1,2024-02-15,12:46,Investigational Product,100,mg,Oral,Tablet,LOT7974,100,0,No,,Study Staff,Yes
+STUDY001,SUB0014,Week 2,2024-02-29,12:11,Investigational Product,100,mg,Oral,Tablet,LOT6887,89,2,No,,Subject,Yes
+STUDY001,SUB0014,Week 4,2024-03-14,10:49,Investigational Product,10,mg,Oral,Tablet,LOT6746,85,1,No,,Subject,Yes
+STUDY001,SUB0014,Week 8,2024-03-28,10:54,Investigational Product,75,mg,Oral,Tablet,LOT2480,87,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0014,Week 12,2024-04-11,12:11,Investigational Product,7,mg,Oral,Tablet,LOT8816,85,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0015,Day 1,2024-02-15,11:11,Investigational Product,100,mg,Oral,Tablet,LOT6440,89,2,No,,Subject,Yes
+STUDY001,SUB0015,Week 2,2024-02-29,12:57,Investigational Product,20,mg,Oral,Tablet,LOT3015,100,0,No,,Study Staff,Yes
+STUDY001,SUB0015,Week 4,2024-03-14,11:56,Investigational Product,50,mg,Oral,Tablet,LOT3054,97,0,No,,Subject,Yes
+STUDY001,SUB0015,Week 8,2024-03-28,11:03,Investigational Product,10,mg,Oral,Tablet,LOT8386,97,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0015,Week 12,2024-04-11,12:32,Investigational Product,15,mg,Oral,Tablet,LOT7928,93,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0016,Day 1,2024-02-15,09:35,Investigational Product,10,mg,Oral,Tablet,LOT1824,98,2,No,,Study Staff,Yes
+STUDY001,SUB0016,Week 2,2024-02-29,11:59,Investigational Product,50,mg,Oral,Tablet,LOT9905,92,1,No,,Study Staff,Yes
+STUDY001,SUB0016,Week 4,2024-03-14,08:21,Investigational Product,10,mg,Oral,Tablet,LOT7935,99,0,No,,Study Staff,Yes
+STUDY001,SUB0016,Week 8,2024-03-28,10:04,Investigational Product,37,mg,Oral,Tablet,LOT7791,87,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0016,Week 12,2024-04-11,09:11,Investigational Product,7,mg,Oral,Tablet,LOT9674,86,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0017,Day 1,2024-02-15,10:19,Investigational Product,100,mg,Oral,Tablet,LOT1261,90,0,No,,Subject,Yes
+STUDY001,SUB0017,Week 2,2024-02-29,08:13,Investigational Product,100,mg,Oral,Tablet,LOT8921,93,2,No,,Subject,Yes
+STUDY001,SUB0017,Week 4,2024-03-14,12:59,Investigational Product,100,mg,Oral,Tablet,LOT4205,95,2,No,,Study Staff,Yes
+STUDY001,SUB0017,Week 8,2024-03-28,10:59,Investigational Product,15,mg,Oral,Tablet,LOT1684,87,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0017,Week 12,2024-04-11,09:58,Investigational Product,7,mg,Oral,Tablet,LOT3793,100,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0018,Day 1,2024-02-15,10:31,Investigational Product,100,mg,Oral,Tablet,LOT6166,98,1,No,,Study Staff,Yes
+STUDY001,SUB0018,Week 2,2024-02-29,08:38,Investigational Product,20,mg,Oral,Tablet,LOT3612,93,1,No,,Study Staff,Yes
+STUDY001,SUB0018,Week 4,2024-03-14,12:32,Investigational Product,20,mg,Oral,Tablet,LOT7078,88,0,No,,Subject,Yes
+STUDY001,SUB0018,Week 8,2024-03-28,11:41,Investigational Product,20,mg,Oral,Tablet,LOT9528,100,1,No,,Subject,Yes
+STUDY001,SUB0018,Week 12,2024-04-11,12:35,Investigational Product,75,mg,Oral,Tablet,LOT4401,97,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0019,Day 1,2024-02-15,11:51,Investigational Product,10,mg,Oral,Tablet,LOT8519,89,1,No,,Subject,Yes
+STUDY001,SUB0019,Week 2,2024-02-29,11:16,Investigational Product,20,mg,Oral,Tablet,LOT4093,86,2,No,,Study Staff,Yes
+STUDY001,SUB0019,Week 4,2024-03-14,12:00,Investigational Product,50,mg,Oral,Tablet,LOT9233,91,0,No,,Study Staff,Yes
+STUDY001,SUB0019,Week 8,2024-03-28,12:50,Investigational Product,50,mg,Oral,Tablet,LOT1074,86,1,No,,Subject,Yes
+STUDY001,SUB0019,Week 12,2024-04-11,12:57,Investigational Product,25,mg,Oral,Tablet,LOT9635,87,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0020,Day 1,2024-02-15,09:22,Investigational Product,20,mg,Oral,Tablet,LOT9329,95,2,No,,Subject,Yes
+STUDY001,SUB0020,Week 2,2024-02-29,10:38,Investigational Product,10,mg,Oral,Tablet,LOT6908,100,2,No,,Study Staff,Yes
+STUDY001,SUB0020,Week 4,2024-03-14,08:54,Investigational Product,20,mg,Oral,Tablet,LOT8637,86,2,No,,Study Staff,Yes
+STUDY001,SUB0020,Week 8,2024-03-28,11:46,Investigational Product,37,mg,Oral,Tablet,LOT2388,94,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0020,Week 12,2024-04-11,11:59,Investigational Product,50,mg,Oral,Tablet,LOT9355,93,1,No,,Subject,Yes
+STUDY001,SUB0021,Day 1,2024-02-15,12:03,Investigational Product,100,mg,Oral,Tablet,LOT4335,92,2,No,,Subject,Yes
+STUDY001,SUB0021,Week 2,2024-02-29,10:31,Investigational Product,50,mg,Oral,Tablet,LOT6341,89,0,No,,Study Staff,Yes
+STUDY001,SUB0021,Week 4,2024-03-14,09:25,Investigational Product,100,mg,Oral,Tablet,LOT1141,89,0,No,,Study Staff,Yes
+STUDY001,SUB0021,Week 8,2024-03-28,08:06,Investigational Product,100,mg,Oral,Tablet,LOT2596,98,2,No,,Study Staff,Yes
+STUDY001,SUB0021,Week 12,2024-04-11,08:40,Investigational Product,10,mg,Oral,Tablet,LOT3954,86,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0022,Day 1,2024-02-15,10:32,Investigational Product,20,mg,Oral,Tablet,LOT6848,92,0,No,,Subject,Yes
+STUDY001,SUB0022,Week 2,2024-02-29,09:31,Investigational Product,20,mg,Oral,Tablet,LOT6753,98,0,No,,Study Staff,Yes
+STUDY001,SUB0022,Week 4,2024-03-14,11:40,Investigational Product,50,mg,Oral,Tablet,LOT7251,95,1,No,,Study Staff,Yes
+STUDY001,SUB0022,Week 8,2024-03-28,12:48,Investigational Product,10,mg,Oral,Tablet,LOT8021,96,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0022,Week 12,2024-04-11,10:45,Investigational Product,100,mg,Oral,Tablet,LOT4561,91,0,No,,Study Staff,Yes
+STUDY001,SUB0023,Day 1,2024-02-15,09:45,Investigational Product,10,mg,Oral,Tablet,LOT1577,89,1,No,,Study Staff,Yes
+STUDY001,SUB0023,Week 2,2024-02-29,08:21,Investigational Product,50,mg,Oral,Tablet,LOT4795,100,1,No,,Subject,Yes
+STUDY001,SUB0023,Week 4,2024-03-14,09:10,Investigational Product,100,mg,Oral,Tablet,LOT7132,86,2,No,,Subject,Yes
+STUDY001,SUB0023,Week 8,2024-03-28,09:11,Investigational Product,25,mg,Oral,Tablet,LOT7972,98,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0023,Week 12,2024-04-11,12:50,Investigational Product,100,mg,Oral,Tablet,LOT8495,100,2,No,,Subject,Yes
+STUDY001,SUB0024,Day 1,2024-02-15,08:17,Investigational Product,10,mg,Oral,Tablet,LOT1809,86,0,No,,Subject,Yes
+STUDY001,SUB0024,Week 2,2024-02-29,10:13,Investigational Product,10,mg,Oral,Tablet,LOT5142,99,0,No,,Study Staff,Yes
+STUDY001,SUB0024,Week 4,2024-03-14,11:42,Investigational Product,50,mg,Oral,Tablet,LOT6653,94,0,No,,Study Staff,Yes
+STUDY001,SUB0024,Week 8,2024-03-28,12:28,Investigational Product,100,mg,Oral,Tablet,LOT7860,90,1,No,,Subject,Yes
+STUDY001,SUB0024,Week 12,2024-04-11,10:36,Investigational Product,10,mg,Oral,Tablet,LOT5699,89,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0025,Day 1,2024-02-15,09:43,Investigational Product,50,mg,Oral,Tablet,LOT1255,88,2,No,,Study Staff,Yes
+STUDY001,SUB0025,Week 2,2024-02-29,09:09,Investigational Product,20,mg,Oral,Tablet,LOT1274,96,2,No,,Subject,Yes
+STUDY001,SUB0025,Week 4,2024-03-14,12:39,Investigational Product,20,mg,Oral,Tablet,LOT2686,86,2,No,,Subject,Yes
+STUDY001,SUB0025,Week 8,2024-03-28,11:39,Investigational Product,15,mg,Oral,Tablet,LOT1042,93,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0025,Week 12,2024-04-11,09:23,Investigational Product,50,mg,Oral,Tablet,LOT1413,93,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0026,Day 1,2024-02-15,12:29,Investigational Product,20,mg,Oral,Tablet,LOT2351,93,1,No,,Subject,Yes
+STUDY001,SUB0026,Week 2,2024-02-29,08:00,Investigational Product,100,mg,Oral,Tablet,LOT4509,99,1,No,,Subject,Yes
+STUDY001,SUB0026,Week 4,2024-03-14,08:46,Investigational Product,100,mg,Oral,Tablet,LOT5740,94,0,No,,Subject,Yes
+STUDY001,SUB0026,Week 8,2024-03-28,09:21,Investigational Product,100,mg,Oral,Tablet,LOT1557,88,2,No,,Subject,Yes
+STUDY001,SUB0026,Week 12,2024-04-11,12:00,Investigational Product,5,mg,Oral,Tablet,LOT3947,92,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0027,Day 1,2024-02-15,09:07,Investigational Product,50,mg,Oral,Tablet,LOT4446,87,0,No,,Study Staff,Yes
+STUDY001,SUB0027,Week 2,2024-02-29,11:44,Investigational Product,50,mg,Oral,Tablet,LOT7233,97,0,No,,Study Staff,Yes
+STUDY001,SUB0027,Week 4,2024-03-14,08:05,Investigational Product,50,mg,Oral,Tablet,LOT4737,94,0,No,,Study Staff,Yes
+STUDY001,SUB0027,Week 8,2024-03-28,11:45,Investigational Product,37,mg,Oral,Tablet,LOT4598,95,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0027,Week 12,2024-04-11,09:31,Investigational Product,75,mg,Oral,Tablet,LOT7444,88,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0028,Day 1,2024-02-15,10:04,Investigational Product,20,mg,Oral,Tablet,LOT2589,100,0,No,,Study Staff,Yes
+STUDY001,SUB0028,Week 2,2024-02-29,08:32,Investigational Product,20,mg,Oral,Tablet,LOT7201,100,0,No,,Study Staff,Yes
+STUDY001,SUB0028,Week 4,2024-03-14,11:36,Investigational Product,100,mg,Oral,Tablet,LOT6589,95,2,No,,Study Staff,Yes
+STUDY001,SUB0028,Week 8,2024-03-28,08:33,Investigational Product,5,mg,Oral,Tablet,LOT3877,88,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0028,Week 12,2024-04-11,12:07,Investigational Product,100,mg,Oral,Tablet,LOT6915,87,2,No,,Subject,Yes
+STUDY001,SUB0029,Day 1,2024-02-15,08:39,Investigational Product,100,mg,Oral,Tablet,LOT4944,89,0,No,,Subject,Yes
+STUDY001,SUB0029,Week 2,2024-02-29,12:06,Investigational Product,50,mg,Oral,Tablet,LOT4245,86,2,No,,Study Staff,Yes
+STUDY001,SUB0029,Week 4,2024-03-14,09:17,Investigational Product,20,mg,Oral,Tablet,LOT6688,87,0,No,,Study Staff,Yes
+STUDY001,SUB0029,Week 8,2024-03-28,10:38,Investigational Product,7,mg,Oral,Tablet,LOT1336,99,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0029,Week 12,2024-04-11,09:09,Investigational Product,100,mg,Oral,Tablet,LOT5699,86,2,No,,Subject,Yes
+STUDY001,SUB0030,Day 1,2024-02-15,12:53,Investigational Product,10,mg,Oral,Tablet,LOT6988,99,1,No,,Study Staff,Yes
+STUDY001,SUB0030,Week 2,2024-02-29,12:52,Investigational Product,20,mg,Oral,Tablet,LOT7103,87,2,No,,Subject,Yes
+STUDY001,SUB0030,Week 4,2024-03-14,09:32,Investigational Product,50,mg,Oral,Tablet,LOT6558,90,1,No,,Subject,Yes
+STUDY001,SUB0030,Week 8,2024-03-28,12:34,Investigational Product,50,mg,Oral,Tablet,LOT4813,100,2,No,,Study Staff,Yes
+STUDY001,SUB0030,Week 12,2024-04-11,11:47,Investigational Product,50,mg,Oral,Tablet,LOT6721,91,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0031,Day 1,2024-02-15,10:48,Investigational Product,20,mg,Oral,Tablet,LOT8400,100,0,No,,Study Staff,Yes
+STUDY001,SUB0031,Week 2,2024-02-29,08:00,Investigational Product,100,mg,Oral,Tablet,LOT6320,91,0,No,,Subject,Yes
+STUDY001,SUB0031,Week 4,2024-03-14,12:35,Investigational Product,10,mg,Oral,Tablet,LOT9308,94,0,No,,Study Staff,Yes
+STUDY001,SUB0031,Week 8,2024-03-28,11:12,Investigational Product,75,mg,Oral,Tablet,LOT7815,90,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0031,Week 12,2024-04-11,10:54,Investigational Product,15,mg,Oral,Tablet,LOT1464,89,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0032,Day 1,2024-02-15,10:24,Investigational Product,20,mg,Oral,Tablet,LOT1922,97,0,No,,Subject,Yes
+STUDY001,SUB0032,Week 2,2024-02-29,08:27,Investigational Product,100,mg,Oral,Tablet,LOT5297,96,0,No,,Study Staff,Yes
+STUDY001,SUB0032,Week 4,2024-03-14,09:13,Investigational Product,50,mg,Oral,Tablet,LOT9968,88,0,No,,Subject,Yes
+STUDY001,SUB0032,Week 8,2024-03-28,09:23,Investigational Product,7,mg,Oral,Tablet,LOT1721,96,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0032,Week 12,2024-04-11,12:29,Investigational Product,75,mg,Oral,Tablet,LOT2635,100,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0033,Day 1,2024-02-15,09:27,Investigational Product,10,mg,Oral,Tablet,LOT6401,91,2,No,,Study Staff,Yes
+STUDY001,SUB0033,Week 2,2024-02-29,08:36,Investigational Product,10,mg,Oral,Tablet,LOT9778,87,1,No,,Subject,Yes
+STUDY001,SUB0033,Week 4,2024-03-14,09:01,Investigational Product,100,mg,Oral,Tablet,LOT9197,87,0,No,,Subject,Yes
+STUDY001,SUB0033,Week 8,2024-03-28,10:09,Investigational Product,100,mg,Oral,Tablet,LOT7143,95,2,No,,Subject,Yes
+STUDY001,SUB0033,Week 12,2024-04-11,10:41,Investigational Product,37,mg,Oral,Tablet,LOT8164,98,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0034,Day 1,2024-02-15,10:14,Investigational Product,100,mg,Oral,Tablet,LOT9703,96,2,No,,Subject,Yes
+STUDY001,SUB0034,Week 2,2024-02-29,12:36,Investigational Product,100,mg,Oral,Tablet,LOT1409,89,1,No,,Subject,Yes
+STUDY001,SUB0034,Week 4,2024-03-14,11:25,Investigational Product,100,mg,Oral,Tablet,LOT9145,95,2,No,,Study Staff,Yes
+STUDY001,SUB0034,Week 8,2024-03-28,11:07,Investigational Product,50,mg,Oral,Tablet,LOT6850,98,0,No,,Subject,Yes
+STUDY001,SUB0034,Week 12,2024-04-11,09:19,Investigational Product,75,mg,Oral,Tablet,LOT3484,98,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0035,Day 1,2024-02-15,08:13,Investigational Product,100,mg,Oral,Tablet,LOT6145,88,0,No,,Study Staff,Yes
+STUDY001,SUB0035,Week 2,2024-02-29,08:29,Investigational Product,20,mg,Oral,Tablet,LOT7462,90,0,No,,Subject,Yes
+STUDY001,SUB0035,Week 4,2024-03-14,11:49,Investigational Product,10,mg,Oral,Tablet,LOT7759,90,0,No,,Subject,Yes
+STUDY001,SUB0035,Week 8,2024-03-28,09:17,Investigational Product,20,mg,Oral,Tablet,LOT6473,88,1,No,,Subject,Yes
+STUDY001,SUB0035,Week 12,2024-04-11,10:41,Investigational Product,7,mg,Oral,Tablet,LOT2283,91,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0036,Day 1,2024-02-15,11:48,Investigational Product,10,mg,Oral,Tablet,LOT6820,94,2,No,,Subject,Yes
+STUDY001,SUB0036,Week 2,2024-02-29,09:42,Investigational Product,10,mg,Oral,Tablet,LOT1905,96,1,No,,Subject,Yes
+STUDY001,SUB0036,Week 4,2024-03-14,11:13,Investigational Product,20,mg,Oral,Tablet,LOT1049,91,2,No,,Subject,Yes
+STUDY001,SUB0036,Week 8,2024-03-28,09:25,Investigational Product,15,mg,Oral,Tablet,LOT3989,88,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0036,Week 12,2024-04-11,12:58,Investigational Product,25,mg,Oral,Tablet,LOT4687,86,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0037,Day 1,2024-02-15,12:24,Investigational Product,100,mg,Oral,Tablet,LOT9573,99,1,No,,Subject,Yes
+STUDY001,SUB0037,Week 2,2024-02-29,09:30,Investigational Product,10,mg,Oral,Tablet,LOT8743,92,1,No,,Subject,Yes
+STUDY001,SUB0037,Week 4,2024-03-14,08:28,Investigational Product,100,mg,Oral,Tablet,LOT7360,95,0,No,,Subject,Yes
+STUDY001,SUB0037,Week 8,2024-03-28,08:57,Investigational Product,50,mg,Oral,Tablet,LOT4286,91,2,No,,Study Staff,Yes
+STUDY001,SUB0037,Week 12,2024-04-11,12:46,Investigational Product,15,mg,Oral,Tablet,LOT2247,96,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0038,Day 1,2024-02-15,12:04,Investigational Product,100,mg,Oral,Tablet,LOT7784,98,1,No,,Subject,Yes
+STUDY001,SUB0038,Week 2,2024-02-29,11:26,Investigational Product,100,mg,Oral,Tablet,LOT6037,95,1,No,,Study Staff,Yes
+STUDY001,SUB0038,Week 4,2024-03-14,12:54,Investigational Product,20,mg,Oral,Tablet,LOT9592,99,2,No,,Subject,Yes
+STUDY001,SUB0038,Week 8,2024-03-28,09:12,Investigational Product,50,mg,Oral,Tablet,LOT3952,90,0,No,,Study Staff,Yes
+STUDY001,SUB0038,Week 12,2024-04-11,09:09,Investigational Product,7,mg,Oral,Tablet,LOT1851,94,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0039,Day 1,2024-02-15,11:02,Investigational Product,10,mg,Oral,Tablet,LOT4229,98,2,No,,Subject,Yes
+STUDY001,SUB0039,Week 2,2024-02-29,12:53,Investigational Product,20,mg,Oral,Tablet,LOT5614,93,0,No,,Study Staff,Yes
+STUDY001,SUB0039,Week 4,2024-03-14,08:31,Investigational Product,50,mg,Oral,Tablet,LOT1796,99,2,No,,Study Staff,Yes
+STUDY001,SUB0039,Week 8,2024-03-28,09:45,Investigational Product,25,mg,Oral,Tablet,LOT7615,100,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0039,Week 12,2024-04-11,09:52,Investigational Product,50,mg,Oral,Tablet,LOT3440,91,1,No,,Study Staff,Yes
+STUDY001,SUB0040,Day 1,2024-02-15,09:11,Investigational Product,100,mg,Oral,Tablet,LOT7060,88,0,No,,Subject,Yes
+STUDY001,SUB0040,Week 2,2024-02-29,10:15,Investigational Product,50,mg,Oral,Tablet,LOT5768,97,2,No,,Subject,Yes
+STUDY001,SUB0040,Week 4,2024-03-14,09:56,Investigational Product,50,mg,Oral,Tablet,LOT5069,87,0,No,,Subject,Yes
+STUDY001,SUB0040,Week 8,2024-03-28,10:57,Investigational Product,5,mg,Oral,Tablet,LOT9980,89,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0040,Week 12,2024-04-11,09:51,Investigational Product,100,mg,Oral,Tablet,LOT8633,94,0,No,,Study Staff,Yes
+STUDY001,SUB0041,Day 1,2024-02-15,12:24,Investigational Product,50,mg,Oral,Tablet,LOT7019,97,0,No,,Subject,Yes
+STUDY001,SUB0041,Week 2,2024-02-29,11:12,Investigational Product,50,mg,Oral,Tablet,LOT3670,93,2,No,,Subject,Yes
+STUDY001,SUB0041,Week 4,2024-03-14,12:28,Investigational Product,10,mg,Oral,Tablet,LOT1173,97,0,No,,Study Staff,Yes
+STUDY001,SUB0041,Week 8,2024-03-28,11:38,Investigational Product,75,mg,Oral,Tablet,LOT2539,99,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0041,Week 12,2024-04-11,09:38,Investigational Product,37,mg,Oral,Tablet,LOT1001,96,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0042,Day 1,2024-02-15,09:26,Investigational Product,20,mg,Oral,Tablet,LOT3960,92,2,No,,Study Staff,Yes
+STUDY001,SUB0042,Week 2,2024-02-29,12:57,Investigational Product,100,mg,Oral,Tablet,LOT5617,89,0,No,,Study Staff,Yes
+STUDY001,SUB0042,Week 4,2024-03-14,11:18,Investigational Product,100,mg,Oral,Tablet,LOT3550,99,0,No,,Study Staff,Yes
+STUDY001,SUB0042,Week 8,2024-03-28,09:50,Investigational Product,20,mg,Oral,Tablet,LOT5186,97,2,No,,Subject,Yes
+STUDY001,SUB0042,Week 12,2024-04-11,11:06,Investigational Product,15,mg,Oral,Tablet,LOT6411,86,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0043,Day 1,2024-02-15,09:17,Investigational Product,50,mg,Oral,Tablet,LOT9511,93,1,No,,Study Staff,Yes
+STUDY001,SUB0043,Week 2,2024-02-29,10:35,Investigational Product,10,mg,Oral,Tablet,LOT7152,93,2,No,,Subject,Yes
+STUDY001,SUB0043,Week 4,2024-03-14,08:32,Investigational Product,50,mg,Oral,Tablet,LOT2682,98,2,No,,Subject,Yes
+STUDY001,SUB0043,Week 8,2024-03-28,10:44,Investigational Product,20,mg,Oral,Tablet,LOT8582,92,2,No,,Study Staff,Yes
+STUDY001,SUB0043,Week 12,2024-04-11,08:31,Investigational Product,50,mg,Oral,Tablet,LOT7404,100,1,No,,Subject,Yes
+STUDY001,SUB0044,Day 1,2024-02-15,11:29,Investigational Product,20,mg,Oral,Tablet,LOT4824,98,2,No,,Subject,Yes
+STUDY001,SUB0044,Week 2,2024-02-29,09:50,Investigational Product,20,mg,Oral,Tablet,LOT9813,99,1,No,,Study Staff,Yes
+STUDY001,SUB0044,Week 4,2024-03-14,09:20,Investigational Product,20,mg,Oral,Tablet,LOT7321,86,2,No,,Study Staff,Yes
+STUDY001,SUB0044,Week 8,2024-03-28,09:32,Investigational Product,100,mg,Oral,Tablet,LOT6311,86,2,No,,Study Staff,Yes
+STUDY001,SUB0044,Week 12,2024-04-11,12:03,Investigational Product,15,mg,Oral,Tablet,LOT3571,95,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0045,Day 1,2024-02-15,11:19,Investigational Product,10,mg,Oral,Tablet,LOT6592,97,2,No,,Subject,Yes
+STUDY001,SUB0045,Week 2,2024-02-29,11:14,Investigational Product,10,mg,Oral,Tablet,LOT1457,96,0,No,,Study Staff,Yes
+STUDY001,SUB0045,Week 4,2024-03-14,09:54,Investigational Product,50,mg,Oral,Tablet,LOT9815,87,1,No,,Study Staff,Yes
+STUDY001,SUB0045,Week 8,2024-03-28,12:02,Investigational Product,10,mg,Oral,Tablet,LOT6115,98,0,No,,Study Staff,Yes
+STUDY001,SUB0045,Week 12,2024-04-11,09:29,Investigational Product,50,mg,Oral,Tablet,LOT1164,85,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0046,Day 1,2024-02-15,09:15,Investigational Product,20,mg,Oral,Tablet,LOT2532,93,2,No,,Study Staff,Yes
+STUDY001,SUB0046,Week 2,2024-02-29,10:49,Investigational Product,100,mg,Oral,Tablet,LOT3233,96,1,No,,Study Staff,Yes
+STUDY001,SUB0046,Week 4,2024-03-14,11:27,Investigational Product,20,mg,Oral,Tablet,LOT6418,99,1,No,,Subject,Yes
+STUDY001,SUB0046,Week 8,2024-03-28,10:36,Investigational Product,75,mg,Oral,Tablet,LOT1992,99,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0046,Week 12,2024-04-11,12:44,Investigational Product,7,mg,Oral,Tablet,LOT2686,98,2,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0047,Day 1,2024-02-15,11:38,Investigational Product,50,mg,Oral,Tablet,LOT4842,100,0,No,,Study Staff,Yes
+STUDY001,SUB0047,Week 2,2024-02-29,08:32,Investigational Product,10,mg,Oral,Tablet,LOT7056,100,0,No,,Study Staff,Yes
+STUDY001,SUB0047,Week 4,2024-03-14,11:44,Investigational Product,20,mg,Oral,Tablet,LOT5298,97,1,No,,Subject,Yes
+STUDY001,SUB0047,Week 8,2024-03-28,09:39,Investigational Product,7,mg,Oral,Tablet,LOT2969,98,1,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0047,Week 12,2024-04-11,10:56,Investigational Product,5,mg,Oral,Tablet,LOT5652,92,0,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0048,Day 1,2024-02-15,12:30,Investigational Product,10,mg,Oral,Tablet,LOT8191,88,2,No,,Subject,Yes
+STUDY001,SUB0048,Week 2,2024-02-29,10:49,Investigational Product,20,mg,Oral,Tablet,LOT2964,95,2,No,,Study Staff,Yes
+STUDY001,SUB0048,Week 4,2024-03-14,08:47,Investigational Product,10,mg,Oral,Tablet,LOT6900,97,2,No,,Study Staff,Yes
+STUDY001,SUB0048,Week 8,2024-03-28,12:27,Investigational Product,10,mg,Oral,Tablet,LOT9152,91,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0048,Week 12,2024-04-11,12:27,Investigational Product,10,mg,Oral,Tablet,LOT3227,85,1,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0049,Day 1,2024-02-15,08:03,Investigational Product,10,mg,Oral,Tablet,LOT9037,93,0,No,,Subject,Yes
+STUDY001,SUB0049,Week 2,2024-02-29,11:57,Investigational Product,10,mg,Oral,Tablet,LOT3402,94,1,No,,Subject,Yes
+STUDY001,SUB0049,Week 4,2024-03-14,09:26,Investigational Product,10,mg,Oral,Tablet,LOT6147,91,2,No,,Subject,Yes
+STUDY001,SUB0049,Week 8,2024-03-28,10:58,Investigational Product,15,mg,Oral,Tablet,LOT5231,99,0,Yes,Adverse Event,Subject,Yes
+STUDY001,SUB0049,Week 12,2024-04-11,12:53,Investigational Product,37,mg,Oral,Tablet,LOT4553,93,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0050,Day 1,2024-02-15,10:24,Investigational Product,100,mg,Oral,Tablet,LOT5431,94,0,No,,Subject,Yes
+STUDY001,SUB0050,Week 2,2024-02-29,10:30,Investigational Product,20,mg,Oral,Tablet,LOT9939,86,2,No,,Subject,Yes
+STUDY001,SUB0050,Week 4,2024-03-14,10:55,Investigational Product,10,mg,Oral,Tablet,LOT1409,98,0,No,,Subject,Yes
+STUDY001,SUB0050,Week 8,2024-03-28,08:31,Investigational Product,10,mg,Oral,Tablet,LOT9250,90,2,Yes,Adverse Event,Study Staff,Yes
+STUDY001,SUB0050,Week 12,2024-04-11,10:38,Investigational Product,50,mg,Oral,Tablet,LOT9412,96,1,No,,Study Staff,Yes
